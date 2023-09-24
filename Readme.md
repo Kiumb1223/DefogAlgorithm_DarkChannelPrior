@@ -1,10 +1,10 @@
-[toc]
+
 
 # Reproduction of a Defogging Algorithm Using Dark Channel Prior
 
 > Reference paper : [Single Image Haze Removal Using Dark Channel Prior | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/5567108)
 
-![res2](D:\Typora\temp\Res.png)
+![res2](https://github.com/Kiumb1223/img_store/blob/master/Res.png)
 
 OriginalPic-----------------DarkChannelPic----------------DefogImage
 
@@ -160,7 +160,7 @@ The dark channel prior may be invalid when the scene object is inherently simila
 
 ### Process Flow Chart
 
-![暗通道去雾流程图](D:\Typora\temp\暗通道去雾流程图.png)
+![暗通道去雾流程图](https://github.com/Kiumb1223/img_store/blob/master/%E6%9A%97%E9%80%9A%E9%81%93%E5%8E%BB%E9%9B%BE%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 ## Reference
 
